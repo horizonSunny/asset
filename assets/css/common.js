@@ -193,6 +193,17 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     borderWidth: dp(0.5),
     borderColor: "#479e13"
+  },
+  tableDetial: {
+    fontSize: font(30),
+    color: "#777777",
+    width: dp(200),
+    textAlign: "center",
+    textAlignVertical: "center",
+    alignItems: "center",
+    justifyContent: "center",
+    borderWidth: dp(0.5),
+    borderColor: "#ddd"
   }
 });
 export default styles;
