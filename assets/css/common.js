@@ -194,6 +194,17 @@ const styles = StyleSheet.create({
     borderWidth: dp(0.5),
     borderColor: "#479e13"
   },
+  tableDisplay: {
+    fontSize: font(22),
+    color: "#777777",
+    width: dp(150),
+    textAlign: "center",
+    textAlignVertical: "center",
+    alignItems: "center",
+    justifyContent: "center",
+    borderWidth: dp(0.5),
+    borderColor: "#000"
+  },
   tableDetial: {
     fontSize: font(30),
     color: "#777777",
